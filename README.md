@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=SuHyeon's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻입니다.</div>
+<div align='center'>노력하는 개발자 김수현입니다✅(●'◡'●).</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:nocdu112@naver.com">tngus3712@naver.com</a></div>
 <div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>
-<div align='center'> 🌐Blog : <a href="https://nocdu112.tistory.com/">블로그</a></div>
+<div align='center'> 🌐Blog : <a href="https://javaaaang.tistory.com/">블로그</a></div>
 <br>
 <br>
 <br>
